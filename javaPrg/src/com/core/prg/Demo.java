@@ -1,4 +1,4 @@
-package com.core.prg;
+package src.com.core.prg;
 
 public class Demo {
     public static void main(String[] args) {

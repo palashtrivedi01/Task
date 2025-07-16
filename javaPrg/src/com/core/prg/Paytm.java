@@ -1,4 +1,4 @@
-package com.core.prg;
+package src.com.core.prg;
 import  java.util.Scanner;
 //we use implements when we use interface
 interface PaymentMethod {
